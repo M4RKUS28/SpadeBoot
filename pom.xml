@@ -12,9 +12,6 @@
 	<artifactId>persistence</artifactId>
 	<version>1.0</version>
 	<packaging>pom</packaging>
-	<modules>
-		<module>demo</module>
-	</modules>
 	<name>seba-e09-solution</name>
 	<description>SEBA E09 Solution</description>
 	<properties>
