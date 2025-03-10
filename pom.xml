@@ -8,11 +8,11 @@
 		<version>3.0.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>tum.seba</groupId>
-	<artifactId>persistence</artifactId>
+	<groupId>de.poker</groupId>
+	<artifactId>spade</artifactId>
 	<version>1.0</version>
-	<name>seba-e09-solution</name>
-	<description>SEBA E09 Solution</description>
+	<name>SpadeBoot</name>
+	<description>Spade Boot is the Backend for Spade</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
